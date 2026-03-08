@@ -3,6 +3,7 @@ public class Main {
 
         Noodle indomie = new Noodle("indomie", "rendang", 3000);
 
+        // change flavor and price using setter
         indomie.setFlavor("matcha");
         indomie.setPrice(1500);
 

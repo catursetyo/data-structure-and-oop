@@ -1,6 +1,6 @@
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
-        Car gtr = new Car("gtr", "white");
+        Noodle gtr = new Noodle("gtr", "white");
 
         System.out.println("Hello, World!");
     }

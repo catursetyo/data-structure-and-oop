@@ -1,3 +1,5 @@
+package abstraction;
+
 abstract class Noodle {
     protected String brand;
     protected int price;

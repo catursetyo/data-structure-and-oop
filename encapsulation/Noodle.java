@@ -1,3 +1,5 @@
+package encapsulation;
+
 class Noodle {
     // variable has to be set to private
     private String brand;

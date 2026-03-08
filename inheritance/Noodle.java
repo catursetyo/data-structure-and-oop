@@ -1,3 +1,5 @@
+package inheritance;
+
 class Noodle { // parent class
     protected String brand;
     protected String flavor;

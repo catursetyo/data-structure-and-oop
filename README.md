@@ -135,7 +135,7 @@ Follow these step-by-step instructions to download and run the programs locally 
 
 Open your terminal and run the following command to download the project to your local machine:
 ```bash
-git clone [https://github.com/catursetyo/data-structure-and-oop.git](https://github.com/catursetyo/data-structure-and-oop.git)
+git clone https://github.com/catursetyo/data-structure-and-oop.git
 ```
 
 **2. Navigate into the project folder**
